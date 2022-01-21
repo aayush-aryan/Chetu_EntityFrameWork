@@ -17,7 +17,7 @@ namespace MVCCodeFirstApproch.Controllers
             dbContext = _dbContext;
         }
 
-        //
+        
         public IActionResult Index()
         {
             var customers = dbContext.customers.ToList();
