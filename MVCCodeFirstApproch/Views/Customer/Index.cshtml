@@ -1,8 +1,9 @@
-﻿@Model IEnumerable<MVCCodeFirstApproch.Models.Customer>
+﻿@*@model IEnumerable<MVCCodeFirstApproch.Models.Customer>*@
+@model IEnumerable<MVCCodeFirstApproch.Models.Location>
     @{
     }
 
-    <table class="table table-bordered">
+    @*<table class="table table-bordered">
         <tr>
             <th>Id</th>
             <th>Name</th>
@@ -22,4 +23,12 @@
             </tr>
         }
 
-    </table>
+    </table>*@
+<h2> Customer Locations</h2>
+<ol>
+    @foreach(var location in Model)
+            {
+                <li><a asp-action="CustomerList" asp-controller="Customer" asp-route-id="@location.Id"> @location.Name</a></li>
+            }
+</ol>
+

@@ -13,6 +13,8 @@ namespace MVCCodeFirstApproch.Models
         }
 
         public DbSet<Customer> customers { get; set; }
+        public DbSet<Location> Location { get; set; }
+
 
     }
 }

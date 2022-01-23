@@ -20,8 +20,22 @@ namespace MVCCodeFirstApproch.Controllers
         
         public IActionResult Index()
         {
-            var customers = dbContext.customers.ToList();
-            return View(customers); ;
+            //var customers = dbContext.customers.ToList();
+            //return View(customers); 
+            var locations = dbContext.Location.ToList();
+            return View(locations);
+        }
+        public IActionResult CustomerList(int id)
+        {
+            var customers = dbContext.customers.Where(e => e.Location.Id == id);
+            return View(customers);
+        }
+        
+        public IActionResult CustomerDetail(int id)
+        {
+            var customer = dbContext.customers.SingleOrDefault(e => e.Id == id);
+            return View(customer);
+
         }
     }
 }

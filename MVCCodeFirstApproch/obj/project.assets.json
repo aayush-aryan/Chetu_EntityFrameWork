@@ -5803,11 +5803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\dotCoreMvc\\MVCCodeFirstApproch\\MVCCodeFirstApproch.csproj",
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\dotCoreMvc\\MVCCodeFirstApproch\\MVCCodeFirstApproch.csproj",
       "projectName": "MVCCodeFirstApproch",
-      "projectPath": "C:\\Users\\user\\Desktop\\dotCoreMvc\\MVCCodeFirstApproch\\MVCCodeFirstApproch.csproj",
+      "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\dotCoreMvc\\MVCCodeFirstApproch\\MVCCodeFirstApproch.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\dotCoreMvc\\MVCCodeFirstApproch\\obj\\",
+      "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\dotCoreMvc\\MVCCodeFirstApproch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
