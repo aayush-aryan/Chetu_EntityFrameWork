@@ -1,0 +1,14 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2>Welcome to Employee page</h2>
+
+<ul>
+    @foreach(string name in ViewBag.employees)
+            {
+                <li>@name</li>
+            }
+</ul>
+<h3>All Right reversed by Chetu Inc @DateTime.Now.Year</h3>

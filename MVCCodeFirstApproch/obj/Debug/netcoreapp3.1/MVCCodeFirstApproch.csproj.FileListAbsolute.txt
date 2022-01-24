@@ -131,7 +131,6 @@ C:\Users\user\OneDrive\Desktop\dotCoreMvc\MVCCodeFirstApproch\bin\Debug\netcorea
 C:\Users\user\OneDrive\Desktop\dotCoreMvc\MVCCodeFirstApproch\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\user\OneDrive\Desktop\dotCoreMvc\MVCCodeFirstApproch\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\user\OneDrive\Desktop\dotCoreMvc\MVCCodeFirstApproch\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\user\OneDrive\Desktop\dotCoreMvc\MVCCodeFirstApproch\obj\Debug\netcoreapp3.1\MVCCodeFirstApproch.csproj.AssemblyReference.cache
 C:\Users\user\OneDrive\Desktop\dotCoreMvc\MVCCodeFirstApproch\obj\Debug\netcoreapp3.1\MVCCodeFirstApproch.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\user\OneDrive\Desktop\dotCoreMvc\MVCCodeFirstApproch\obj\Debug\netcoreapp3.1\MVCCodeFirstApproch.AssemblyInfoInputs.cache
 C:\Users\user\OneDrive\Desktop\dotCoreMvc\MVCCodeFirstApproch\obj\Debug\netcoreapp3.1\MVCCodeFirstApproch.AssemblyInfo.cs
@@ -161,3 +160,7 @@ C:\Users\user\OneDrive\Desktop\dotCoreMvc\MVCCodeFirstApproch\obj\Debug\netcorea
 C:\Users\user\OneDrive\Desktop\dotCoreMvc\MVCCodeFirstApproch\obj\Debug\netcoreapp3.1\MVCCodeFirstApproch.dll
 C:\Users\user\OneDrive\Desktop\dotCoreMvc\MVCCodeFirstApproch\obj\Debug\netcoreapp3.1\MVCCodeFirstApproch.pdb
 C:\Users\user\OneDrive\Desktop\dotCoreMvc\MVCCodeFirstApproch\obj\Debug\netcoreapp3.1\MVCCodeFirstApproch.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\dotCoreMvc\MVCCodeFirstApproch\obj\Debug\netcoreapp3.1\MVCCodeFirstApproch.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\dotCoreMvc\MVCCodeFirstApproch\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\dotCoreMvc\MVCCodeFirstApproch\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\dotCoreMvc\MVCCodeFirstApproch\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
